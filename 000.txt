@@ -1,0 +1,1 @@
+R is an open-source programming language and software environment primarily used for statistical computing, data analysis, and graphical representation. It was created by Ross Ihaka and Robert Gentleman in the early 1990s as an implementation of the S programming language.
